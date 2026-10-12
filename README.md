@@ -39,7 +39,7 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Chromeyc/DuoXPy.git
+git clone https://github.com/4qu8/DuoXPy.git
 cd DuoXPy
 ```
 
@@ -97,5 +97,5 @@ This project is licensed under the [DuoXPy License](./LICENSE).
 ---
 
 <p align="center">
-  <i>Created with ❤️ by <a href="https://github.com/Chromeyc">smh (Chromeyc)</a> & <a href="https://github.com/oxGorou">oxGorou</a></i>
+  <i>Created with ❤️ by <a href="https://github.com/4qu8">smh (4qu8)</a> & <a href="https://github.com/oxGorou">oxGorou</a></i>
 </p>
